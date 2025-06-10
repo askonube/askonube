@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/askonube/threat-hunting-scenario-tor)**
-- **[Threat Hunting Zero Day Ransomware)](https://github.com/askonube/TH-Zero-Day-Ransomware)**
+- **[Threat Hunting Zero-Day Ransomware (PwnCrypt)](https://github.com/askonube/TH-Zero-Day-Ransomware)**
 - **[Threat Hunting Data Exfiltration](https://github.com/askonube/IR-Data-Exfiltration)**
 - **[Threat Hunting Network Slowdowns](https://github.com/askonube/IR-Network-Slowdowns)**
 - **[Threat Hunting Devices Exposed](https://github.com/askonube/IR-Devices-Exposed-Internet)**
