@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/>
 
 ## Networking
-- **[Small Office Home Office (SOHO) Network Design and Implementation]
+- **[Small Office Home Office (SOHO) Network Design and Implementation](https://github.com/askonube/SOHO-Network)**
 
 ## Antimalware Solutions
 - **[Open-Source Linux Malware Defence](https://github.com/askonube/Open-Source-Linux-Malware-Defence)**
