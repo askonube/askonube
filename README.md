@@ -22,6 +22,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response PowerShell Web Request](https://github.com/askonube/IR-Powershell-Web-Request)**
 <hr/>
 
+## Networking
+- **[Small Office Home Office (SOHO) Network Design and Implementation]
+
 ## Antimalware Solutions
 - **[Open-Source Linux Malware Defence](https://github.com/askonube/Open-Source-Linux-Malware-Defence)**
 
