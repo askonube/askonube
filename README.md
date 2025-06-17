@@ -1,5 +1,7 @@
 # IT and Cybersecurity Project Portfolio
 
+Welcome to my Github! Here are a variety of cybersecurity projects that I’ve been working to expand my knowledge and sharpen my skills in this interesting and dynamic field. Feel free to check them out. 
+
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/askonube/vulnerability-management-program)**
