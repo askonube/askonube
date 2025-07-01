@@ -24,7 +24,7 @@ Welcome to my Github! Here are some cybersecurity projects that I’ve been work
 ## Networking
 - **[Small Office Home Office (SOHO) Network Design and Implementation](https://github.com/askonube/SOHO-Network)**
 
-## Antimalware Solutions
+## SIEM / EDR Configuration Setup
 - **[Open-Source SIEM / EDR](https://github.com/askonube/Open-Source-SIEM-EDR)**
 
 <hr/>
