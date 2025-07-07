@@ -14,7 +14,7 @@ Welcome to my Github! Here are some cybersecurity projects that I’ve been work
 - **[Threat Hunting Data Exfiltration](https://github.com/askonube/IR-Data-Exfiltration)**
 - **[Threat Hunting Network Slowdowns](https://github.com/askonube/IR-Network-Slowdowns)**
 - **[Threat Hunting Devices Exposed](https://github.com/askonube/IR-Devices-Exposed-Internet)**
-- **[Threat Hunting Scenario Lurker](https://github.com/askonube/Threat-Hunting-Scenario-Lurker)**
+
 
 ## Incident Response
 
