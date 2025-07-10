@@ -9,6 +9,7 @@ Welcome to my Github! Here are some cybersecurity projects that I’ve been work
 
 ## Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario Lurker](https://github.com/askonube/Threat-Hunting-Scenario-Lurker)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/askonube/threat-hunting-scenario-tor)**
 - **[Threat Hunting Zero-Day Ransomware (PwnCrypt)](https://github.com/askonube/TH-Zero-Day-Ransomware)**
 - **[Threat Hunting Data Exfiltration](https://github.com/askonube/IR-Data-Exfiltration)**
