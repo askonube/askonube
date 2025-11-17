@@ -27,7 +27,7 @@ Welcome to my Github! Here are some cybersecurity projects that I’ve been work
 - **[Small Office Home Office (SOHO) Network Design and Implementation](https://github.com/askonube/SOHO-Network)**
 
 ## Scripting
-- **[Backup Folders into Zip Files](https://github.com/askonube/Open-Source-SIEM-EDR)**
+- **[Backup Folders into Zip Files]([https://github.com/askonube/backup_folder_zip])**
 
 <hr/>
 
