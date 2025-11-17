@@ -1,6 +1,6 @@
 # IT and Cybersecurity Project Portfolio
 
-Welcome to my Github! Here are some cybersecurity projects that I’ve been working to expand my knowledge and sharpen my skills in this interesting and dynamic field. Feel free to check them out. 
+Welcome to my Github! Here are some cybersecurity projects that I’ve been working to expand my knowledge and sharpen my skills in this field. Feel free to check them out. 
 
 ## Vulnerability Management Projects
 
